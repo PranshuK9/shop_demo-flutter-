@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is the first project created on flutter to understand the working with new widgets and getting their working and usage.
 
 A few resources to get you started if this is your first Flutter project:
 
